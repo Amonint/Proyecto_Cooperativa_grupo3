@@ -243,7 +243,8 @@ def crear_datos_evolucion_anual(dfs):
 datos_anuales = crear_datos_evolucion_anual(dfs)
 df_evolucion = pd.DataFrame(datos_anuales)
 
-# Gráfico de líneas de evolución anual
+# Gráfico de líneas de evolución a
+# nual
 fig_evolucion = px.line(df_evolucion, x='Mes', 
                        y=['Ingresos (Millones)', 'Gastos (Millones)', 'Utilidad (Millones)'],
                        title='Evolución Financiera - Todo el Año (en Millones)',
