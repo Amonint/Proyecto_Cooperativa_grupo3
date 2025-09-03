@@ -1,0 +1,1191 @@
+CODIGO_CONTABLE,NOMBRE_CUENTA,TIPO,GRUPO,PADRE JULIAN LORENTE LTDA,
+1,ACTIVO,1,1,"125,120,772.53"
+11,FONDOS DISPONIBLES,1,2,"13,121,279.90"
+1101,Caja,1,4,"3,047,587.27"
+110105,Efectivo,1,6,"3,045,737.27"
+110110,Caja chica,1,6,"1,850.00"
+1102,Depósitos para encaje,1,4,"2,269,330.00"
+110205,Banco Central del Ecuador,1,6,"2,269,330.00"
+1103,Bancos y otras entidades financieras,1,4,"7,797,558.60"
+110305,Banco Central del Ecuador,1,6,"1,787,274.05"
+110310,Entidades del sector financiero público y privado,1,6,"4,721,914.55"
+110315,Bancos e instituciones financieras del exterior,1,6,0.00
+110320,Entidades del sector financiero popular y solidario,1,6,"1,288,370.00"
+1104,Efectos de cobro inmediato,1,4,"6,804.03"
+110401,Efectos de cobro inmediato,1,6,"6,804.03"
+1105,Remesas en tránsito / transferencias en tránsito,1,4,0.00
+110505,Del país,1,6,0.00
+110510,Del exterior,1,6,0.00
+110515,Transferencias en tránsito,1,6,
+12,OPERACIONES INTERFINANCIERAS,1,2,0.00
+1201,Fondos interfinancieros vendidos,1,4,0.00
+120105,Entidades del sector financiero privado,1,6,0.00
+120110,Entidades del sector financiero público,1,6,0.00
+120115,Entidades del sector financiero popular y solidario,1,6,0.00
+1202,Operaciones de reporto con instituciones financieras,1,4,
+120205,Entidades del sector financiero público,1,6,
+120210,Entidades del sector financiero privado,1,6,
+13,INVERSIONES,1,2,"4,754,174.10"
+1301,A valor razonable con cambios en el estado de resultados de entidades del sector privado y sector financiero popular y solidario,1,4,0.00
+130105,De 1 a 30 días sector privado,1,6,0.00
+130110,De 31 a 90 días sector privado,1,6,0.00
+130115,De 91 a 180 días sector privado,1,6,0.00
+130120,De 181 a 360 días sector privado,1,6,0.00
+130125,De más de 360 días sector privado,1,6,0.00
+130150,De 1 a 30 días sector financiero popular y solidario,1,6,0.00
+130155,De 31 a 90 días sector financiero popular y solidario,1,6,0.00
+130160,De 91 a 180 días sector financiero popular y solidario,1,6,0.00
+130165,De 181 a 360 días sector financiero popular y solidario,1,6,0.00
+130170,De más de 360 días sector financiero popular y solidario,1,6,0.00
+1302,A valor razonable con cambios en el estado de resultados del Estado o de entidades del sector público,1,4,0.00
+130205,De 1 a 30 días,,,0.00
+130210,De 31 a 90 días,1,6,0.00
+130215,De 91 a 180 días,1,6,0.00
+130220,De 181 a 360 días,1,6,0.00
+130225,De más de 360 días,1,6,0.00
+1303,Disponibles para la venta de entidades del sector privado y sector financiero popular y solidario,1,4,0.00
+130305,De 1 a 30 días sector privado,1,6,0.00
+130310,De 31 a 90 días sector privado,1,6,0.00
+130315,De 91 a 180 días sector privado,1,6,0.00
+130320,De 181 a 360 días sector privado,1,6,0.00
+130325,De más de 360 días sector privado,1,6,0.00
+130350,De 1 a 30 días sector financiero popular y solidario,1,6,0.00
+130355,De 31 a 90 días sector financiero popular y solidario,1,6,0.00
+130360,De 91 a 180 días sector financiero popular y solidario,1,6,0.00
+130365,De 181 a 360 días sector financiero popular y solidario,1,6,0.00
+130370,De más de 360 días sector financiero popular y solidario,1,6,0.00
+1304,Disponibles para la venta del Estado o de entidades del sector público,1,4,0.00
+130405,De 1 a 30 días,,,0.00
+130410,De 31 a 90 días,1,6,0.00
+130415,De 91 a 180 días,1,6,0.00
+130420,De 181 a 360 días,1,6,0.00
+130425,De más de 360 días,1,6,0.00
+1305,Mantenidas hasta su vencimiento de entidades del sector privado y sector financiero popular y solidario,1,4,"4,754,174.10"
+130505,De 1 a 30 días sector privado,1,6,"600,724.62"
+130510,De 31 a 90 días sector privado,1,6,"700,000.00"
+130515,De 91 a 180 días sector privado,1,6,"261,595.83"
+130520,De 181 días a 1 año sector privado,1,6,0.00
+130525,De 1 a 3 años sector privado,1,6,"62,500.00"
+130530,De 3 a 5 años sector privado,1,6,0.00
+130535,De 5 a 10 años sector privado,1,6,0.00
+130540,De más de 10 años sector privado,1,6,0.00
+130550,De 1 a 30 días sector financiero popular y solidario,1,6,"200,948.75"
+130555,De 31 a 90 días sector financiero popular y solidario,1,6,"1,728,404.90"
+130560,De 91 a 180 días sector financiero popular y solidario,1,6,"1,200,000.00"
+130565,De 181 días a 1 año sector financiero popular y solidario,1,6,0.00
+130570,De 1 a 3 años sector financiero popular y solidario,1,6,0.00
+130575,De 3 a 5 años sector financiero popular y solidario,1,6,0.00
+130580,De 5 a 10 años sector financiero popular y solidario,1,6,0.00
+130585,De más de 10 años sector financiero popular y solidario,1,6,0.00
+1306,Mantenidas hasta su vencimiento del Estado o de entidades del sector público,1,4,0.00
+130605,De 1 a 30 días,,,0.00
+130610,De 31 a 90 días,1,6,0.00
+130615,De 91 a 180 días,1,6,0.00
+130620,De 181 días a 1 año,1,6,0.00
+130625,De 1 a 3 años,1,6,0.00
+130630,De 3 a 5 años,1,6,0.00
+130635,De 5 a 10 años,1,6,0.00
+130640,De más de 10 años,1,6,0.00
+1307,De disponibilidad restringida,1,4,0.00
+130705,Entregadas para operaciones de reporto,1,6,0.00
+130710,Depósitos sujetos a restricción,1,6,0.00
+130720,Entregados en garantía,1,6,0.00
+130790,Otros,1,6,0.00
+1399,(Provisión para inversiones),1,4,0.00
+139905,(Provisión por deterioro en valuación de inversiones),1,6,0.00
+139910,(Provisión general para inversiones),1,6,0.00
+14,CARTERA DE CRÉDITOS,1,2,"93,108,880.47"
+1401,Cartera de crédito productivo por vencer,1,4,1.00
+140105,De 1 a 30 días,,,0.00
+140110,De 31 a 90 días,1,6,0.00
+140115,De 91 a 180 días,1,6,0.00
+140120,De 181 a 360 días,1,6,0.00
+140125,De más de 360 días,1,6,1.00
+1402,Cartera de crédito de consumo por vencer,1,4,"59,671,908.47"
+140205,De 1 a 30 días,,,"1,328,446.87"
+140210,De 31 a 90 días,1,6,"2,564,525.20"
+140215,De 91 a 180 días,1,6,"3,901,758.71"
+140220,De 181 a 360 días,1,6,"7,348,021.51"
+140225,De más de 360 días,1,6,"44,529,156.18"
+1403,Cartera de crédito inmobiliario por vencer,1,4,"4,107,977.73"
+140305,De 1 a 30 días,,,"37,718.19"
+140310,De 31 a 90 días,1,6,"70,017.50"
+140315,De 91 a 180 días,1,6,"105,618.46"
+140320,De 181 a 360 días,1,6,"206,351.44"
+140325,De más de 360 días,1,6,"3,688,272.14"
+1404,Cartera de microcrédito por vencer,1,4,"28,310,647.91"
+140405,De 1 a 30 días,,,"878,805.12"
+140410,De 31 a 90 días,1,6,"1,591,868.74"
+140415,De 91 a 180 días,1,6,"2,755,769.32"
+140420,De 181 a 360 días,1,6,"5,207,387.62"
+140425,De más de 360 días,1,6,"17,876,817.11"
+1408,Cartera de crédito de vivienda de interés social y público por vencer,1,4,0.00
+140805,De 1 a 30 días,,,0.00
+140810,De 31 a 90 días,1,6,0.00
+140815,De 91 a 180 días,1,6,0.00
+140820,De 181 a 360 días,1,6,0.00
+140825,De más de 360 días,1,6,0.00
+1409,Cartera de crédito productivo refinanciada por vencer,1,4,0.00
+140905,De 1 a 30 días,,,0.00
+140910,De 31 a 90 días,1,6,0.00
+140915,De 91 a 180 días,1,6,0.00
+140920,De 181 a 360 días,1,6,0.00
+140925,De más de 360 días,1,6,0.00
+1410,Cartera de crédito de consumo refinanciada por vencer,1,4,"308,705.78"
+141005,De 1 a 30 días,,,"4,661.50"
+141010,De 31 a 90 días,1,6,"7,799.89"
+141015,De 91 a 180 días,1,6,"13,203.70"
+141020,De 181 a 360 días,1,6,"25,081.85"
+141025,De más de 360 días,1,6,"257,958.84"
+1411,Cartera de crédito inmobiliario refinanciada por vencer,1,4,"29,341.84"
+141105,De 1 a 30 días,,,"2,467.62"
+141110,De 31 a 90 días,1,6,"1,858.77"
+141115,De 91 a 180 días,1,6,"4,135.77"
+141120,De 181 a 360 días,1,6,"7,410.01"
+141125,De más de 360 días,1,6,"13,469.67"
+1412,Cartera de microcrédito refinanciada por vencer,1,4,"148,226.12"
+141205,De 1 a 30 días,,,"1,982.57"
+141210,De 31 a 90 días,1,6,"2,970.97"
+141215,De 91 a 180 días,1,6,"7,180.40"
+141220,De 181 a 360 días,1,6,"28,721.85"
+141225,De más de 360 días,1,6,"107,370.33"
+1416,Cartera de crédito de vivienda de interés social y público  refinanciada por vencer,1,4,0.00
+141605,De 1 a 30 días,,,0.00
+141610,De 31 a 90 días,1,6,0.00
+141615,De 91 a 180 días,1,6,0.00
+141620,De 181 a 360 días,1,6,0.00
+141625,De más de 360 días,1,6,0.00
+1417,Cartera de crédito productivo reestructurada por vencer,1,4,0.00
+141705,De 1 a 30 días,,,0.00
+141710,De 31 a 90 días,1,6,0.00
+141715,De 91 a 180 días,1,6,0.00
+141720,De 181 a 360 días,1,6,0.00
+141725,De más de 360 días,1,6,0.00
+1418,Cartera de crédito de consumo reestructurada por vencer,1,4,"15,295.20"
+141805,De 1 a 30 días,,,235.87
+141810,De 31 a 90 días,1,6,208.74
+141815,De 91 a 180 días,1,6,505.57
+141820,De 181 a 360 días,1,6,"1,081.75"
+141825,De más de 360 días,1,6,"13,263.27"
+1419,Cartera de crédito inmobiliario reestructurada por vencer,1,4,0.00
+141905,De 1 a 30 días,,,0.00
+141910,De 31 a 90 días,1,6,0.00
+141915,De 91 a 180 días,1,6,0.00
+141920,De 181 a 360 días,1,6,0.00
+141925,De más de 360 días,1,6,0.00
+1420,Cartera de microcrédito reestructurada por vencer,1,4,"37,440.61"
+142005,De 1 a 30 días,,,221.05
+142010,De 31 a 90 días,1,6,467.24
+142015,De 91 a 180 días,1,6,"1,120.34"
+142020,De 181 a 360 días,1,6,"2,590.50"
+142025,De más de 360 días,1,6,"33,041.48"
+1424,Cartera de crédito de vivienda de interés social y público  reestructurada por vencer,1,4,0.00
+142405,De 1 a 30 días,,,0.00
+142410,De 31 a 90 días,1,6,0.00
+142415,De 91 a 180 días,1,6,0.00
+142420,De 181 a 360 días,1,6,0.00
+142425,De más de 360 días,1,6,0.00
+1425,Cartera de crédito productivo que no devenga intereses,1,4,0.00
+142505,De 1 a 30 días,,,0.00
+142510,De 31 a 90 días,1,6,0.00
+142515,De 91 a 180 días,1,6,0.00
+142520,De 181 a 360 días,1,6,0.00
+142525,De más de 360 días,1,6,0.00
+1426,Cartera de crédito de consumo que no devenga intereses,1,4,"1,469,051.58"
+142605,De 1 a 30 días,,,"102,724.20"
+142610,De 31 a 90 días,1,6,"89,080.07"
+142615,De 91 a 180 días,1,6,"128,503.98"
+142620,De 181 a 360 días,1,6,"230,821.80"
+142625,De más de 360 días,1,6,"917,921.53"
+1427,Cartera de crédito inmobiliario que no devenga intereses,1,4,"90,515.45"
+142705,De 1 a 30 días,,,"2,255.48"
+142710,De 31 a 90 días,1,6,"1,545.51"
+142715,De 91 a 180 días,1,6,"2,357.23"
+142720,De 181 a 360 días,1,6,"4,943.60"
+142725,De más de 360 días,1,6,"79,413.63"
+1428,Cartera de microcrédito que no devenga intereses,1,4,"2,040,485.24"
+142805,De 1 a 30 días,,,"150,114.34"
+142810,De 31 a 90 días,1,6,"136,674.10"
+142815,De 91 a 180 días,1,6,"213,074.12"
+142820,De 181 a 360 días,1,6,"353,801.49"
+142825,De más de 360 días,1,6,"1,186,821.19"
+1432,Cartera de crédito de vivienda de interés social y público que no devenga intereses,1,4,0.00
+143205,De 1 a 30 días,,,0.00
+143210,De 31 a 90 días,1,6,0.00
+143215,De 91 a 180 días,1,6,0.00
+143220,De 181 a 360 días,1,6,0.00
+143225,De más de 360 días,1,6,0.00
+1433,Cartera de crédito productivo refinanciada que no devenga intereses,1,4,0.00
+143305,De 1 a 30 días,,,0.00
+143310,De 31 a 90 días,1,6,0.00
+143315,De 91 a 180 días,1,6,0.00
+143320,De 181 a 360 días,1,6,0.00
+143325,De más de 360 días,1,6,0.00
+1434,Cartera de crédito de consumo refinanciada que no devenga intereses,1,4,"69,801.15"
+143405,De 1 a 30 días,,,"2,546.17"
+143410,De 31 a 90 días,1,6,"2,329.32"
+143415,De 91 a 180 días,1,6,"4,517.87"
+143420,De 181 a 360 días,1,6,"9,109.90"
+143425,De más de 360 días,1,6,"51,297.89"
+1435,Cartera de crédito inmobiliario refinanciada que no devenga intereses,1,4,"16,557.89"
+143505,De 1 a 30 días,,,395.53
+143510,De 31 a 90 días,1,6,271.23
+143515,De 91 a 180 días,1,6,413.57
+143520,De 181 a 360 días,1,6,720.34
+143525,De más de 360 días,1,6,"14,757.22"
+1436,Cartera microcrédito refinanciada que no devenga intereses,1,4,"22,020.47"
+143605,De 1 a 30 días,,,"1,585.26"
+143610,De 31 a 90 días,1,6,879.56
+143615,De 91 a 180 días,1,6,913.97
+143620,De 181 a 360 días,1,6,"2,354.70"
+143625,De más de 360 días,1,6,"16,286.98"
+1440,Cartera de crédito de vivienda de interés social y público  refinanciada que no devenga intereses,1,4,0.00
+144005,De 1 a 30 días,,,0.00
+144010,De 31 a 90 días,1,6,0.00
+144015,De 91 a 180 días,1,6,0.00
+144020,De 181 a 360 días,1,6,0.00
+144025,De más de 360 días,1,6,0.00
+1441,Cartera de crédito productivo reestructurada que no devenga intereses,1,4,0.00
+144105,De 1 a 30 días,,,0.00
+144110,De 31 a 90 días,1,6,0.00
+144115,De 91 a 180 días,1,6,0.00
+144120,De 181 a 360 días,1,6,0.00
+144125,De más de 360 días,1,6,0.00
+1442,Cartera de crédito de consumo reestructurada que no devenga intereses,1,4,0.00
+144205,De 1 a 30 días,,,0.00
+144210,De 31 a 90 días,1,6,0.00
+144215,De 91 a 180 días,1,6,0.00
+144220,De 181 a 360 días,1,6,0.00
+144225,De más de 360 días,1,6,0.00
+1443,Cartera de crédito inmobiliario reestructurada que no devenga intereses,1,4,0.00
+144305,De 1 a 30 días,,,0.00
+144310,De 31 a 90 días,1,6,0.00
+144315,De 91 a 180 días,1,6,0.00
+144320,De 181 a 360 días,1,6,0.00
+144325,De más de 360 días,1,6,0.00
+1444,Cartera microcrédito reestructurada que no devenga intereses,1,4,"1,298.40"
+144405,De 1 a 30 días,,,156.13
+144410,De 31 a 90 días,1,6,161.07
+144415,De 91 a 180 días,1,6,250.93
+144420,De 181 a 360 días,1,6,539.08
+144425,De más de 360 días,1,6,191.19
+1448,Cartera de crédito de vivienda de interés social y público reestructurada que no devenga intereses,1,4,0.00
+144805,De 1 a 30 días,,,0.00
+144810,De 31 a 90 días,1,6,0.00
+144815,De 91 a 180 días,1,6,0.00
+144820,De 181 a 360 días,1,6,0.00
+144825,De más de 360 días,1,6,0.00
+1449,Cartera de crédito productivo vencida,1,4,5.00
+144905,De 1 a 30 días,,,0.00
+144910,De 31 a 90 días,1,6,0.00
+144915,De 91 a 180 días,1,6,0.00
+144920,De 181 a 360 días,1,6,0.00
+144925,De más de 360 días,1,6,5.00
+1450,Cartera de crédito de consumo vencida,1,4,"297,443.96"
+145005,De 1 a 30 días,,,"2,302.52"
+145010,De 31 a 90 días,1,6,"81,289.84"
+145015,De 91 a 180 días,1,6,"57,192.16"
+145020,De 181 a 270 días,1,6,"40,224.34"
+145025,De más de 270 días,1,6,"116,435.10"
+1451,Cartera de crédito inmobiliario vencida,1,4,"4,004.47"
+145105,De 1 a 30 días,,,0.00
+145110,De 31 a 90 días,1,6,806.03
+145115,De 91 a 270 días,1,6,"1,814.97"
+145120,De 271 a 360 días,1,6,464.38
+145125,De 361 a 720 días,1,6,918.09
+145130,De más de 720 días,1,6,1.00
+1452,Cartera de microcrédito vencida,1,4,"709,873.04"
+145205,De 1 a 30 días,,,1.00
+145210,De 31 a 90 días,1,6,"154,320.87"
+145215,De 91 a 180 días,1,6,"128,435.84"
+145220,De 181 a 360 días,1,6,"193,967.77"
+145225,De más de 360 días,1,6,"233,147.56"
+1456,Cartera de crédito de vivienda de interés social y público vencida,1,4,0.00
+145605,De 1 a 30 días,,,0.00
+145610,De 31 a 90 días,1,6,0.00
+145615,De 91 a 270 días,1,6,0.00
+145620,De 271 a 360 días,1,6,0.00
+145625,De 361 a 720 días,1,6,0.00
+145630,De más de 720 días,1,6,0.00
+1457,Cartera de crédito productivo refinanciada vencida,1,4,0.00
+145705,De 1 a 30 días,,,0.00
+145710,De 31 a 90 días,1,6,0.00
+145715,De 91 a 180 días,1,6,0.00
+145720,De 181 a 360 días,1,6,0.00
+145725,De más de 360 días,1,6,0.00
+1458,Cartera de crédito de consumo refinanciada vencida,1,4,"11,513.00"
+145805,De 1 a 30 días,,,0.00
+145810,De 31 a 90 días,1,6,"2,516.35"
+145815,De 91 a 180 días,1,6,"1,507.25"
+145820,De 181 a 270 días,1,6,"1,864.14"
+145825,De más de 270 días,1,6,"5,625.26"
+1459,Cartera de crédito inmobiliario refinanciada vencida,1,4,142.38
+145905,De 1 a 30 días,,,0.00
+145910,De 31 a 90 días,1,6,142.38
+145915,De 91 a 270 días,1,6,0.00
+145920,De 271 a 360 días,1,6,0.00
+145925,De 361 a 720 días,1,6,0.00
+145930,De más de 720 días,1,6,0.00
+1460,Cartera de microcrédito refinanciada vencida,1,4,"10,295.84"
+146005,De 1 a 30 días,,,0.00
+146010,De 31 a 90 días,1,6,"1,073.18"
+146015,De 91 a 180 días,1,6,"5,646.02"
+146020,De 181 a 360 días,1,6,"1,523.91"
+146025,De más de 360 días,1,6,"2,052.73"
+1464,Cartera de crédito de vivienda de interés social y público  refinanciada vencida,1,4,0.00
+146405,De 1 a 30 días,,,0.00
+146410,De 31 a 90 días,1,6,0.00
+146415,De 91 a 270 días,1,6,0.00
+146420,De 271 a 360 días,1,6,0.00
+146425,De 361 a 720 días,1,6,0.00
+146430,De más de 720 días,1,6,0.00
+1465,Cartera de crédito productivo reestructurada vencida,1,4,1.00
+146505,De 1 a 30 días,,,0.00
+146510,De 31 a 90 días,1,6,0.00
+146515,De 91 a 180 días,1,6,0.00
+146520,De 181 a 360 días,1,6,0.00
+146525,De más de 360 días,1,6,1.00
+1466,Cartera de crédito de consumo reestructurada vencida,1,4,4.00
+146605,De 1 a 30 días,,,1.00
+146610,De 31 a 90 días,1,6,0.00
+146615,De 91 a 180 días,1,6,0.00
+146620,De 181 a 270 días,1,6,0.00
+146625,De más de 270 días,1,6,3.00
+1467,Cartera de crédito inmobiliario reestructurada vencida,1,4,0.00
+146705,De 1 a 30 días,,,0.00
+146710,De 31 a 90 días,1,6,0.00
+146715,De 91 a 270 días,1,6,0.00
+146720,De 271 a 360 días,1,6,0.00
+146725,De 361 a 720 días,1,6,0.00
+146730,De más de 720 días,1,6,0.00
+1468,Cartera de microcrédito reestructurada vencida,1,4,155.83
+146805,De 1 a 30 días,,,2.00
+146810,De 31 a 90 días,1,6,152.83
+146815,De 91 a 180 días,1,6,0.00
+146820,De 181 a 360 días,1,6,0.00
+146825,De más de 360 días,1,6,1.00
+1472,Cartera de crédito de vivienda de interés social y público reestructurada vencida,1,4,0.00
+147205,De 1 a 30 días,,,0.00
+147210,De 31 a 90 días,1,6,0.00
+147215,De 91 a 270 días,1,6,0.00
+147220,De 271 a 360 días,1,6,0.00
+147225,De 361 a 720 días,1,6,0.00
+147230,De más de 720 días,1,6,0.00
+1473,Cartera de crédito educativo por vencer,1,4,0.00
+147305,De 1 a 30 días,,,0.00
+147310,De 31 a 90 días,1,6,0.00
+147315,De 91 a 180 días,1,6,0.00
+147320,De 181 a 360 días,1,6,0.00
+147325,De más de 360 días,1,6,0.00
+1475,Cartera de crédito educativo refinanciada por vencer,1,4,0.00
+147505,De 1 a 30 días,,,0.00
+147510,De 31 a 90 días,1,6,0.00
+147515,De 91 a 180 días,1,6,0.00
+147520,De 181 a 360 días,1,6,0.00
+147525,De más de 360 días,1,6,0.00
+1477,Cartera de crédito educativo reestructurada por vencer,1,4,0.00
+147705,De 1 a 30 días,,,0.00
+147710,De 31 a 90 días,1,6,0.00
+147715,De 91 a 180 días,1,6,0.00
+147720,De 181 a 360 días,1,6,0.00
+147725,De más de 360 días,1,6,0.00
+1479,Cartera de crédito educativo que no devenga intereses,1,4,0.00
+147905,De 1 a 30 días,,,0.00
+147910,De 31 a 90 días,1,6,0.00
+147915,De 91 a 180 días,1,6,0.00
+147920,De 181 a 360 días,1,6,0.00
+147925,De más de 360 días,1,6,0.00
+1481,Cartera de crédito educativo refinanciada que no devenga intereses,1,4,0.00
+148105,De 1 a 30 días,,,0.00
+148110,De 31 a 90 días,1,6,0.00
+148115,De 91 a 180 días,1,6,0.00
+148120,De 181 a 360 días,1,6,0.00
+148125,De más de 360 días,1,6,0.00
+1483,Cartera de crédito educativo reestructurada que no devenga intereses,1,4,0.00
+148305,De 1 a 30 días,,,0.00
+148310,De 31 a 90 días,1,6,0.00
+148315,De 91 a 180 días,1,6,0.00
+148320,De 181 a 360 días,1,6,0.00
+148325,De más de 360 días,1,6,0.00
+1485,Cartera de crédito educativo vencida,1,4,0.00
+148505,De 1 a 30 días,,,0.00
+148510,De 31 a 90 días,1,6,0.00
+148515,De 91 a 180 días,1,6,0.00
+148520,De 181 a 360 días,1,6,0.00
+148525,De más de 360 días,1,6,0.00
+1487,Cartera de crédito educativo refinanciada vencida,1,4,0.00
+148705,De 1 a 30 días,,,0.00
+148710,De 31 a 90 días,1,6,0.00
+148715,De 91 a 180 días,1,6,0.00
+148720,De 181 a 360 días,1,6,0.00
+148725,De más de 360 días,1,6,0.00
+1489,Cartera de crédito educativo reestructurada vencida,1,4,0.00
+148905,De 1 a 30 días,,,0.00
+148910,De 31 a 90 días,1,6,0.00
+148915,De 91 a 180 días,1,6,0.00
+148920,De 181 a 360 días,1,6,0.00
+148925,De más de 360 días,1,6,0.00
+1499,(Provisiones para créditos incobrables),1,4,"-4,263,832.89"
+149905,(Cartera de crédito productivo),1,6,-6.00
+149910,(Cartera de crédito de consumo),1,6,"-1,445,661.12"
+149915,(Cartera de crédito inmobiliario),1,6,"-115,589.01"
+149920,(Cartera de microcréditos),1,6,"-2,013,254.54"
+149940,(Cartera de crédito de vivienda de interés social y público ),1,6,0.00
+149945,(Cartera de créditos refinanciada),1,6,0.00
+149950,(Cartera de créditos reestructurada),1,6,"-21,902.34"
+149955,(Cartera de créditos educativo),1,6,0.00
+149980,(Provisión genérica por tecnología crediticia),1,6,"-349,010.63"
+149985,(Provisión  anticíclica),1,6,0.00
+149987,(Provisiones no reversadas por requerimiento normativo),1,6,0.00
+149989,(Provisión genérica voluntaria),1,6,"-318,409.25"
+16,CUENTAS POR COBRAR,1,2,"2,091,345.72"
+1601,Intereses por cobrar de operaciones interfinancieras,1,4,0.00
+160105,Interfinancieras vendidas,1,6,0.00
+160110,Operaciones de reporto con instituciones financieras,1,6,
+1602,Intereses por cobrar inversiones,1,4,"18,426.64"
+160205,A valor razonable con cambios en el estado de resultados,1,6,0.00
+160210,Disponibles para la venta,1,6,0.00
+160215,Mantenidas hasta el vencimiento,1,6,"18,426.64"
+160220,De disponibilidad restringida,1,6,0.00
+1603,Intereses por cobrar de cartera de créditos,1,4,"1,578,187.94"
+160305,Cartera de crédito productivo,1,6,0.00
+160310,Cartera de crédito de consumo,1,6,"695,932.23"
+160315,Cartera de crédito inmobiliario,1,6,"101,932.06"
+160320,Cartera de microcrédito,1,6,"586,244.87"
+160340,Cartera de crédito de vivienda de interés social y público,1,6,0.00
+160341,Cartera de crédito educativo,1,6,0.00
+160345,Cartera de créditos refinanciada,1,6,"8,979.82"
+160350,Cartera de créditos reestructurada,1,6,"185,098.96"
+1604,Otros intereses por cobrar,1,4,0.00
+1605,Comisiones por cobrar,1,4,0.00
+160515,Operaciones contingentes ,1,6,0.00
+160590,Otras,1,6,0.00
+1606,Rendimientos por cobrar de fideicomisos mercantiles,1,4,0.00
+1609,Garantías pagadas pendientes de recuperación,1,4,
+160905,Créditos productivos,1,6,
+160910,Microcréditos,1,6,
+160990,Contingentes,1,6,
+1611,Anticipo para adquisición de acciones y participaciones,1,4,0.00
+1612,Inversiones vencidas,1,4,0.00
+1614,Pagos por cuenta de socios,1,4,"223,317.69"
+161405,Intereses,1,6,0.00
+161410,Comisiones,1,6,0.00
+161415,Gastos por operaciones contingentes,1,6,0.00
+161420,Seguros,1,6,0.00
+161425,Impuestos,1,6,"2,498.97"
+161430,Gastos judiciales,1,6,"43,570.88"
+161490,Otros,1,6,"177,247.84"
+1615,Intereses reestructurados por cobrar,1,4,0.00
+161505,Intereses de cartera de crédito productivo,1,6,0.00
+161510,Intereses de cartera de crédito de consumo,1,6,0.00
+161515,Intereses de cartera de crédito inmobiliario,1,6,0.00
+161520,Intereses de cartera de microcrédito,1,6,0.00
+161540,Intereses de cartera de crédito de vivienda de interés social y público,1,6,0.00
+161545,Intereses de cartera de crédito educativo,1,6,0.00
+1619,Cuentas  por cobrar por cartera de vivienda vendida al fideicomiso de titularización,1,4,0.00
+161905,Cuentas por cobrar por cartera de vivienda de interés público,1,6,0.00
+161910,Cuentas por cobrar por cartera de vivienda de interés social,1,6,0.00
+1620,Venta de cartera a plazo,1,4,0.00
+162005,Cuentas por cobrar por venta de cartera a plazo,1,6,0.00
+162010,Cuentas por cobrar por venta de cartera a plazo con pacto de retroventa,1,6,0.00
+1690,Cuentas por cobrar varias,1,4,"454,606.07"
+169005,Anticipos al personal,1,6,"84,983.48"
+169015,Cheques protestados y rechazados,1,6,0.00
+169020,Arrendamientos,1,6,0.00
+169025,Establecimientos afiliados,1,6,0.00
+169030,Por venta de bienes y títulos,1,6,0.00
+169035,Juicios ejecutivos en proceso,1,6,0.00
+169040,Emisión y renovación de tarjetas,1,6,0.00
+169090,Otras,1,6,"369,622.59"
+1699,(Provisión para cuentas por cobrar),1,4,"-183,192.62"
+169905,(Provisión para intereses y comisiones por cobrar),1,6,0.00
+169910,(Provisión para otras cuentas por cobrar),1,6,"-183,192.62"
+169915,(Provisiones para garantías pagadas),1,6,
+169920,(Provisión de cartera vendida a plazo),1,6,0.00
+17,"BIENES REALIZABLES, ADJUDICADOS POR PAGO Y BIENES NO UTILIZADOS POR LA ENTIDAD",1,2,"886,269.95"
+1702,Bienes adjudicados por pago,1,4,0.00
+170205,Terrenos,1,6,0.00
+170210,Edificios y otros locales,1,6,0.00
+170215,"Mobiliario, maquinaria y equipo",1,6,0.00
+170220,Unidades de transporte,1,6,0.00
+170225,Derechos fiduciarios,1,6,0.00
+170230,Otros títulos valores,1,6,0.00
+170235,Mercaderías,1,6,0.00
+170250,CARTERA DE CRÉDITOS,1,6,
+170290,Otros,1,6,0.00
+1705,Bienes arrendados ,1,4,0.00
+170505,Inmuebles,1,6,0.00
+170510,"Muebles, enseres y equipos de oficina",1,6,0.00
+170515,Equipos de computación,1,6,0.00
+170520,Unidades de transporte,1,6,0.00
+170590,Otros,1,6,0.00
+170599,(Depreciación de bienes arrendados),1,6,0.00
+1706,Bienes no utilizados por la institución,1,4,"886,269.95"
+170605,Terrenos,1,6,"886,269.95"
+170610,Edificios,1,6,0.00
+170615,Otros locales,1,6,0.00
+170620,Remodelaciones en curso,1,6,0.00
+170690,Otros,1,6,0.00
+170699,(Depreciación de bienes no utilizados por la institución),1,6,0.00
+1799,(Provisión para bienes adjudicados por pago),1,4,0.00
+179910,(Provisión para bienes adjudicados por pago),1,6,0.00
+18,PROPIEDADES Y EQUIPO,1,2,"3,251,302.46"
+1801,Terrenos,1,4,"1,185,400.74"
+1802,Edificios,1,4,"1,145,572.01"
+1803,Construcciones y remodelaciones en curso,1,4,0.00
+1804,Otros locales,1,4,0.00
+1805,"Muebles, enseres y equipos de oficina",1,4,"1,821,867.36"
+1806,Equipos de computación,1,4,"914,262.34"
+1807,Unidades de transporte,1,4,"86,275.40"
+1890,Otros,1,4,"2,034.02"
+1899,(Depreciación acumulada),1,4,"-1,904,109.41"
+189905,(Edificios),1,6,"-91,569.05"
+189910,(Otros locales),1,6,0.00
+189915,"(Muebles, enseres y equipos de oficina)",1,6,"-1,009,709.18"
+189920,(Equipos de computación),1,6,"-726,698.17"
+189925,(Unidades de transporte),1,6,"-76,133.01"
+189940,(Otros),1,6,0.00
+19,OTROS ACTIVOS,1,2,"7,907,519.93"
+1901,"Inversiones en acciones, participaciones y aportaciones",1,4,"273,733.21"
+190110,En entidades del sector financiero popular y solidario,1,6,0.00
+190120,En entidades de servicios auxiliares del sistema financiero,1,6,0.00
+190125,En organismos de integración cooperativa,1,6,"273,733.21"
+190130,Inversiones no financieras,1,6,
+190135,En entidades de servicios financieros,1,6,0.00
+1902,Derechos fiduciarios,1,4,"5,808,351.02"
+190205,INVERSIONES,1,6,"15,000.00"
+190210,Cartera de créditos por vencer,1,6,"2,583,756.73"
+190215,Cartera de créditos refinanciada por vencer,1,6,0.00
+190220,Cartera de créditos reestructurada por vencer,1,6,0.00
+190221,Cartera de créditos que no devenga intereses,1,6,0.00
+190225,Cartera de créditos refinanciada que no devenga intereses,1,6,0.00
+190226,Cartera de créditos reestructurada que no devenga intereses,1,6,0.00
+190230,Cartera de créditos vencida,1,6,0.00
+190231,Cartera de créditos refinanciada vencida,1,6,0.00
+190235,Cartera de créditos reestructurada vencida,1,6,0.00
+190245,CUENTAS POR COBRAR,1,6,0.00
+190255,Bienes adjudicados por pago,1,6,0.00
+190265,Bienes no utilizados por la entidad,1,6,0.00
+190270,PROPIEDADES Y EQUIPO,1,6,0.00
+190275,OTROS ACTIVOS,1,6,0.00
+190280,Inversiones en acciones y participaciones,1,6,0.00
+190285,FONDOS DISPONIBLES,1,6,"5,000.00"
+190286,Fondos de liquidez,1,6,"3,204,594.29"
+1904,Gastos y pagos anticipados,1,4,"722,703.86"
+190405,Intereses pagados por anticipado,1,6,0.00
+190410,Anticipos a terceros,1,6,"433,794.52"
+190490,Otros gastos y pagos anticipados,1,6,"288,909.34"
+190499,(Amortización de gastos anticipados),1,6,0.00
+1905,Gastos diferidos,1,4,"969,073.79"
+190505,Gastos de constitución y organización,1,6,0.00
+190510,Gastos de instalación,1,6,0.00
+190515,Estudios,1,6,0.00
+190520,Programas de computación,1,6,"926,116.66"
+190525,Gastos de adecuación,1,6,"1,175,671.72"
+190535,Pérdidas incurridas en procesos de fusión,1,6,0.00
+190590,Otros gastos diferidos,1,6,"44,800.00"
+190599,(Amortización acumulada gastos diferidos),1,6,"-1,177,514.59"
+1906,"Materiales, mercaderías e insumos",1,4,"35,040.21"
+190610,Mercaderías de cooperativas,1,6,"2,780.70"
+190615,Proveeduría,1,6,"32,259.51"
+1908,Transferencias internas,1,4,0.00
+1990,Otros,1,4,"99,318.62"
+199005,Impuesto al valor agregado – IVA,1,6,"4,918.23"
+199010,Otros impuestos,1,6,"46,499.78"
+199015,Depósitos en garantía y para importaciones,1,6,"11,750.00"
+199025,Faltantes de caja,1,6,0.00
+199090,Varias,1,6,"36,150.61"
+1999,(Provisión para otros activos irrecuperables),1,4,-700.78
+199905,(Provisión para valuación de inversiones en acciones y participaciones),1,6,0.00
+199910,(Provisión para valuación de derechos fiduciarios),1,6,0.00
+199990,(Provisión para otros activos),1,6,-700.78
+2,PASIVOS,2,1,"110,578,301.39"
+21,OBLIGACIONES CON EL PÚBLICO,2,2,"94,044,411.46"
+2101,Depósitos a la vista,2,4,"22,453,276.89"
+210110,Depósitos monetarios que no generan intereses,2,6,0.00
+210130,Cheques certificados,2,6,0.00
+210131,Cheques de emergencia,2,6,0.00
+210135,Depósitos de ahorro,2,6,"22,441,548.76"
+210140,Otros depósitos,2,6,0.00
+210145,Fondos de tarjetahabientes,2,6,0.00
+210150,Depósitos por confirmar,2,6,"8,719.95"
+210155,Depósitos de cuenta básica,2,6,"3,008.18"
+2102,Operaciones de reporto,2,4,
+210205,Operaciones de reporto financiero,2,6,
+210210,Operaciones de reporto por confirmar,2,6,
+210215,Operaciones de reporto bursátil,2,6,
+2103,Depósitos a plazo,2,4,"71,035,336.35"
+210305,De 1 a 30 días,,,"11,842,491.12"
+210310,De 31 a 90 días,2,6,"17,639,410.69"
+210315,De 91 a 180 días,2,6,"15,945,646.65"
+210320,De 181 a 360 días,2,6,"23,973,558.75"
+210325,De más de 361 días,2,6,"1,634,229.14"
+210330,Depósitos por confirmar,2,6,0.00
+2104,Depósitos de garantía,2,4,0.00
+2105,Depósitos restringidos,2,4,"555,798.22"
+22,OPERACIONES INTERFINANCIERAS,2,2,0.00
+2201,Fondos interfinancieros comprados,2,4,0.00
+220105,Entidades del sector financiero privado,2,6,0.00
+220110,Entidades del sector financiero público,2,6,0.00
+220115,Entidades del sector financiero popular y solidario,2,6,0.00
+2202,Operaciones de reporto con entidades financieras,2,4,0.00
+220205,Entidades del sector financiero público,2,6,0.00
+220210,Entidades del sector financiero privado,2,6,
+23,OBLIGACIONES INMEDIATAS,2,2,"17,392.01"
+2301,Cheques de gerencia,2,4,0.00
+2302,"Giros, transferencias y cobranzas por pagar",2,4,0.00
+230205,Giros y transferencias,2,6,0.00
+230210,Cobranzas,2,6,0.00
+2303,Recaudaciones para el sector público,2,4,"17,392.01"
+2304,Valores en circulación y cupones por pagar,2,4,0.00
+230405,Bonos,2,6,
+230410,Obligaciones,2,6,0.00
+230415,Otros títulos valores,2,6,0.00
+25,CUENTAS POR PAGAR,2,2,"4,025,606.05"
+2501,Intereses por pagar,2,4,"1,860,306.92"
+250105,Depósitos a la vista,2,6,"3,285.05"
+250110,Operaciones de reporto,2,6,
+250115,Depósitos a plazo fijo,2,6,"1,814,085.16"
+250120,Depósitos en garantía,2,6,0.00
+250125,Fondos interfinancieros comprados,2,6,0.00
+250130,Operaciones de reporto con entidades financieras,2,6,0.00
+250135,Obligaciones financieras,2,6,"42,000.11"
+250140,Bonos,2,6,
+250145,Obligaciones,2,6,0.00
+250150,Otros títulos valores,2,6,0.00
+250155,Depósitos restringidos,2,6,0.00
+250190,Otros,2,6,936.60
+2502,Comisiones por pagar,2,4,0.00
+2503,Obligaciones patronales,2,4,"517,442.93"
+250305,Remuneraciones,2,6,0.00
+250310,Beneficios Sociales,2,6,"134,530.19"
+250315,Aportes al IESS,2,6,"51,914.96"
+250320,Fondo de reserva IESS,2,6,"1,333.65"
+250325,Participación a empleados,2,6,"41,642.52"
+250330,"Gastos de responsabilidad, residencia y representación",2,6,0.00
+250390,Otras,2,6,"288,021.61"
+2504,Retenciones,2,4,"117,668.21"
+250405,Retenciones fiscales,2,6,"28,080.65"
+250490,Otras retenciones,2,6,"89,587.56"
+2505,"Contribuciones, impuestos y multas",2,4,"76,148.77"
+250505,Impuesto a la renta,2,6,"58,217.25"
+250510,Multas,2,6,0.00
+250590,Otras contribuciones e impuestos,2,6,"17,931.52"
+2506,Proveedores,2,4,"37,028.65"
+2507,Obligaciones por compra de cartera,2,4,0.00
+2508,Garantías crediticias subrogadas pendientes de recuperación,2,4,0.00
+250805,Créditos productivos,2,6,0.00
+250810,Microcréditos,2,6,0.00
+250815,Contingentes,2,6,0.00
+2510,Cuentas por pagar a establecimientos afiliados,2,4,0.00
+2511,Provisiones para aceptaciones y operaciones contingentes,2,4,0.00
+2590,Cuentas por pagar varias,2,4,"1,417,010.57"
+259010,Excedentes por pagar,2,6,0.00
+259015,Cheques girados no cobrados,2,6,"6,383.13"
+259090,Otras cuentas por pagar,2,6,"1,410,627.44"
+26,Obligaciones financieras,2,2,"12,376,104.28"
+2601,Sobregiros,2,4,0.00
+2602,Obligaciones con instituciones financieras del país y sector financiero popular y solidario,2,4,"1,973,688.60"
+260205,De 1 a 30 días con entidades financieras privadas,2,6,"107,616.84"
+260210,De 31 a 90 días con entidades financieras privadas,2,6,"215,802.62"
+260215,De 91 a 180 días con entidades financieras privadas,2,6,"325,561.41"
+260220,De 181 a 360 días con entidades financieras privadas,2,6,"656,287.60"
+260225,De más de 360 días con entidades financieras privadas,2,6,"668,420.13"
+260250,De 1 a 30 días con entidades del sector financiero popular y solidario,2,6,0.00
+260255,De 31 a 90 con entidades días del sector financiero popular y solidario,2,6,0.00
+260260,De 91 a 180 con entidades días del sector financiero popular y solidario,2,6,0.00
+260265,De 181 a 360 con entidades días del sector financiero popular y solidario,2,6,0.00
+260270,De más de 360 días con entidades del sector financiero popular y solidario,2,6,0.00
+2603,Obligaciones con entidades financieras del exterior,2,4,"3,000,000.00"
+260305,De 1 a 30 días,,,0.00
+260310,De 31 a 90 días,2,6,0.00
+260315,De 91 a 180 días,2,6,"3,000,000.00"
+260320,De 181 a 360 días,2,6,0.00
+260325,De más de 360 días,2,6,0.00
+2604,Obligaciones con entidades del grupo popular y solidario,2,4,"2,605,707.48"
+260450,De 1 a 30 días,,,"305,287.98"
+260455,De 31 a 90 días,2,6,"614,064.16"
+260460,De 91 a 180,2,6,"935,316.76"
+260465,De 181 a 360,2,6,"751,038.58"
+260470,De más de 360,2,6,0.00
+2606,Obligaciones con entidades financieras públicas,2,4,"4,796,708.20"
+260605,De 1 a 30 días,,,"123,862.32"
+260610,De 31 a 90 días,2,6,"210,760.61"
+260615,De 91 a 180 días,2,6,"354,333.56"
+260620,De 181 a 360 días,2,6,"676,333.94"
+260625,De más de 360 días,2,6,"3,431,417.77"
+2607,Obligaciones con organismos multilaterales,2,4,0.00
+260705,De 1 a 30 días,,,0.00
+260710,De 31 a 90 días,2,6,0.00
+260715,De 91 a 180 días,2,6,0.00
+260720,De 181 a 360 días,2,6,0.00
+260725,De más de 360 días,2,6,0.00
+2610,Obligaciones con el fondo de liquidez de las entidades del sector financiero popular y solidario,2,4,0.00
+261005,Por créditos ordinarios,2,6,0.00
+261010,Por créditos extraordinarios,2,6,0.00
+261015,Por créditos corrientes,2,6,0.00
+261090,Por otros créditos del Fondo de Liquidez,2,6,0.00
+2690,Otras obligaciones,2,4,0.00
+269005,De 1 a 30 días,,,0.00
+269010,De 31 a 90 días,2,6,0.00
+269015,De 91 a 180 días,2,6,0.00
+269020,De 181 a 360 días,2,6,0.00
+269025,De más de 360 días,2,6,0.00
+27,VALORES EN CIRCULACIÓN,2,2,0.00
+2701,Bonos,2,4,
+270105,Bonos emitidos por entidades financieras públicas,2,6,
+2702,Obligaciones,2,4,0.00
+270205,Emitidas por entidades del sector financiero popular y solidario,2,6,0.00
+270210,Emitidas por entidades financieras públicas,2,6,
+2703,Otros títulos valores,2,4,0.00
+270390,Otros títulos valores,2,6,0.00
+2790,Prima o descuento en colocación de valores en circulación,2,4,0.00
+28,APORTES PARA FUTURAS CAPITALIZACIONES,2,2,0.00
+2801,APORTES PARA FUTURAS CAPITALIZACIONES,2,4,0.00
+29,OTROS PASIVOS,2,2,"114,787.59"
+2901,Ingresos recibidos por anticipado,2,4,0.00
+290115,Rentas recibidas por anticipado,2,6,0.00
+290190,Otros,2,6,0.00
+2903,Fondos en administración,2,4,0.00
+2908,Transferencias internas,2,4,0.00
+2990,Otros,2,4,"114,787.59"
+299005,Sobrantes de caja,2,6,"34,362.83"
+299090,Varios,2,6,"80,424.76"
+3,PATRIMONIO,3,1,"14,367,819.36"
+31,CAPITAL SOCIAL,3,2,"3,732,521.55"
+3101,Capital Pagado,3,4,
+3102,Capital no efectivizado,3,4,
+3103,Aportes de socios,3,4,"3,732,521.55"
+33,RESERVAS,3,2,"9,037,101.68"
+3301,Fondo Irrepartible de Reserva Legal,3,4,"8,057,355.15"
+330105,Reserva legal Irrepartible de utilidades o excedentes,3,6,"7,969,840.93"
+330110,Aportes de los socios por norma de fortalecimiento de cooperativas de ahorro y crédito,3,6,0.00
+330115,Donaciones,3,6,"87,514.22"
+3303,Especiales y Facultativas,3,4,"979,746.53"
+3305,Revalorización del patrimonio,3,4,0.00
+3310,Por resultados no operativos,3,4,0.00
+34,OTROS APORTES PATRIMONIALES,3,2,0.00
+3401,Acuerdos transaccionales,3,4,0.00
+3402,Donaciones,3,4,
+35,SUPERÁVIT POR VALUACIONES,3,2,"1,485,439.76"
+3501,"Superávit por valuación de propiedades, equipo y otros",3,4,"1,485,439.76"
+3502,Superávit por valuación de inversiones en acciones,3,4,0.00
+3504,Valuación de inversiones en instrumentos financieros,3,4,0.00
+36,RESULTADOS,3,2,"112,756.37"
+3601,Utilidades o excedentes acumuladas,3,4,"174,333.39"
+3602,(Pérdidas acumuladas),3,4,"-61,577.02"
+3603,Utilidad o excedente del ejercicio,3,4,0.00
+3604,(Pérdida del ejercicio),3,4,0.00
+4,GASTOS,4,1,"6,288,029.74"
+41,INTERESES CAUSADOS,4,2,"2,583,742.38"
+4101,OBLIGACIONES CON EL PÚBLICO,4,4,"2,273,533.93"
+410105,Depósitos monetarios en cuentas corrientes,4,6,0.00
+410115,Depósitos de ahorro,4,6,"136,943.78"
+410120,Fondos de tarjetahabientes,4,6,0.00
+410125,Operaciones de reporto,4,6,
+410130,Depósitos a plazo,4,6,"2,136,589.33"
+410135,Depósitos de garantía,4,6,0.00
+410140,Depósitos de cuenta básica,4,6,0.82
+410145,Depósitos restringidos,4,6,0.00
+410190,Otros,4,6,0.00
+4102,OPERACIONES INTERFINANCIERAS,4,4,0.00
+410205,Fondos financieros comprados,4,6,0.00
+410210,Operaciones de reporto con instituciones financieras,4,6,0.00
+4103,Obligaciones financieras,4,4,"310,208.45"
+410305,Sobregiros,4,6,0.00
+410310,Obligaciones con entidades financieras del país,4,6,"5,451.11"
+410315,Obligaciones con entidades financieras del exterior,4,6,"97,606.00"
+410320,Obligaciones con entidades del grupo popular y solidario,4,6,"103,018.67"
+410330,Obligaciones con entidades financieras del sector público,4,6,"104,132.67"
+410335,Obligaciones con organismos multilaterales,4,6,0.00
+410350,Otras obligaciones,4,6,0.00
+4104,VALORES EN CIRCULACIÓN,4,4,0.00
+410405,Bonos,4,6,
+410410,Obligaciones,4,6,0.00
+410415,Otros títulos valores,4,6,0.00
+4105,Otros intereses,4,4,0.00
+410590,Otros,4,6,0.00
+42,COMISIONES CAUSADAS,4,2,"3,360.00"
+4201,Obligaciones financieras,4,4,0.00
+4202,Operaciones contingentes,4,4,0.00
+4203,Cobranzas,4,4,0.00
+4205,Servicios fiduciarios,4,4,"3,360.00"
+4290,Varias,4,4,0.00
+43,PÉRDIDAS FINANCIERAS,4,2,"13,701.95"
+4302,En valuación de inversiones,4,4,0.00
+4303,En venta de activos productivos,4,4,0.00
+430305,En venta de inversiones,4,6,0.00
+430310,En venta de cartera de créditos,4,6,0.00
+430390,Otras,4,6,0.00
+4304,Pérdidas por fideicomiso mercantil,4,4,0.00
+4305,Prima de inversiones en títulos valores,4,4,0.00
+4306,Primas en cartera comprada,4,4,"13,701.95"
+4307,Amortización de pérdidas incurridas en proceso de fusión,4,4,0.00
+44,PROVISIONES,4,2,"280,260.58"
+4401,INVERSIONES,4,4,0.00
+4402,CARTERA DE CRÉDITOS,4,4,"250,113.73"
+440210,Crédito productivo,4,6,0.00
+440220,Crédito de consumo,4,6,"76,397.79"
+440230,Crédito inmobiliario,4,6,"9,081.80"
+440235,Crédito de vivienda de interés social y público,4,6,0.00
+440240,Microcrédito,4,6,"164,634.14"
+440245,Crédito educativo,4,6,0.00
+4403,CUENTAS POR COBRAR,4,4,"30,146.85"
+4404,Bienes adjudicados por pago,4,4,0.00
+4405,OTROS ACTIVOS,4,4,0.00
+4406,Operaciones contingentes,4,4,0.00
+45,GASTOS DE OPERACIÓN,4,2,"3,259,547.02"
+4501,Gastos de personal,4,4,"1,293,071.09"
+450105,Remuneraciones mensuales,4,6,"877,289.08"
+450110,Beneficios Sociales,4,6,"121,168.70"
+450115,"Gastos de representación, residencia y responsabilidad",4,6,0.00
+450120,Aportes al IESS,4,6,"104,391.55"
+450125,Impuesto a la renta del personal,4,6,0.00
+450130,Pensiones y jubilaciones,4,6,"1,370.25"
+450135,Fondo de reserva IESS,4,6,"62,244.55"
+450190,Otros,4,6,"126,606.96"
+4502,Honorarios,4,4,"266,082.88"
+450205,Consejos,4,6,"62,983.54"
+450210,Honorarios profesionales,4,6,"203,099.34"
+450290,Otros,4,6,0.00
+4503,Servicios varios,4,4,"723,549.24"
+450305,"Movilización, fletes y embalajes",4,6,"43,641.70"
+450310,Servicios de guardianía,4,6,"104,311.80"
+450315,Publicidad y propaganda,4,6,"52,224.23"
+450320,Servicios básicos,4,6,"181,495.55"
+450325,Seguros,4,6,"83,005.67"
+450330,Arrendamientos,4,6,"151,644.53"
+450390,Otros servicios,4,6,"107,225.76"
+4504,"Impuestos, contribuciones y multas",4,4,"428,737.36"
+450405,Impuestos Fiscales,4,6,144.00
+450410,Impuestos Municipales,4,6,"103,229.19"
+450415,Aportes a la SEPS,4,6,"41,357.74"
+450420,Aportes al COSEDE por prima fija,4,6,"231,644.42"
+450421,Aportes al COSEDE por prima variable,4,6,0.00
+450430,Multas y otras sanciones,4,6,31.21
+450490,Otros impuestos y contribuciones,4,6,"52,330.80"
+4505,Depreciaciones,4,4,"141,502.07"
+450505,Bienes arrendados,4,6,0.00
+450510,Bienes no utilizados por la institución,4,6,0.00
+450515,Edificios,4,6,"19,983.94"
+450520,Otros locales,4,6,0.00
+450525,"Muebles, enseres y equipos de oficina",4,6,"72,970.72"
+450530,Equipos de computación,4,6,"38,320.56"
+450535,Unidades de transporte,4,6,"2,607.19"
+450590,Otros,4,6,"7,619.66"
+4506,Amortizaciones,4,4,"140,145.39"
+450605,Gastos anticipados,4,6,0.00
+450610,Gastos de constitución y organización,4,6,0.00
+450615,Gastos de instalación,4,6,28.64
+450620,Estudios,4,6,0.00
+450625,Programas de computación,4,6,"37,474.51"
+450630,Gastos de adecuación,4,6,"98,908.86"
+450690,Otros,4,6,"3,733.38"
+4507,Otros gastos,4,4,"266,458.99"
+450705,Suministros diversos,4,6,"34,259.67"
+450710,Donaciones,4,6,"9,397.49"
+450715,Mantenimiento y reparaciones,4,6,"133,907.29"
+450790,Otros,4,6,"88,894.54"
+46,OTRAS PÉRDIDAS OPERACIONALES,4,2,0.00
+4601,Pérdida en acciones y participaciones,4,4,0.00
+4690,Otras,4,4,0.00
+47,OTROS GASTOS Y PERDIDAS,4,2,"46,641.55"
+4701,Pérdida en venta de bienes,4,4,348.02
+4702,Pérdida en venta de acciones y participaciones,4,4,0.00
+4703,Intereses y comisiones devengados en ejercicios anteriores,4,4,"46,293.53"
+4790,Otros,4,4,0.00
+479005,Pérdida garantías concedidas no recuperadas,4,6,
+479010,Otros,4,6,0.00
+48,IMPUESTOS Y PARTICIPACIÓN A EMPLEADOS,4,2,"100,776.26"
+4810,Participación a empleados,4,4,"41,094.53"
+4815,Impuesto a la renta,4,4,"59,681.73"
+4890,Otros,4,4,0.00
+5,INGRESOS,5,1,"6,462,681.52"
+51,INTERESES Y DESCUENTOS GANADOS,5,2,"6,190,168.20"
+5101,Depósitos,5,4,"36,253.08"
+510105,Depósitos para encaje,5,6,0.00
+510110,"Depósitos en entidades financieras públicas, privadas y del sector financiero popular y solidario",5,6,"36,253.08"
+510115,Overnight,5,6,0.00
+5102,OPERACIONES INTERFINANCIERAS,5,4,0.00
+510205,Fondos interfinancieras vendidos,5,6,0.00
+510210,Operaciones de reporto,5,6,
+5103,Intereses y descuentos de inversiones en títulos valores,5,4,"102,855.43"
+510305,Inversiones a valor razonable con cambios en el estado de resultados,5,6,0.00
+510310,Disponibles para la venta,5,6,0.00
+510315,Mantenidas hasta el vencimiento,5,6,"102,855.43"
+510320,De disponibilidad restringida,5,6,0.00
+5104,Intereses y descuentos de cartera de créditos,5,4,"5,993,434.82"
+510405,Cartera de crédito productivo,5,6,288.29
+510410,Cartera de crédito de consumo,5,6,"3,697,686.29"
+510415,Cartera de crédito inmobiliario,5,6,"181,537.67"
+510420,Cartera de microcrédito,5,6,"2,010,458.29"
+510427,Cartera de crédito de vivienda de interés social y público,5,6,0.00
+510428,Cartera de crédito educativo,5,6,0.00
+510430,Cartera de créditos refinanciada,5,6,"28,002.02"
+510435,Cartera de créditos reestructurada,5,6,"25,327.40"
+510450,De mora,5,6,"50,134.86"
+510455,Descuentos en cartera comprada,5,6,0.00
+5190,Otros intereses y descuentos,5,4,"57,624.87"
+519090,Otros,5,6,"57,624.87"
+52,COMISIONES GANADAS,5,2,11.00
+5203,Avales,5,4,0.00
+5204,Fianzas,5,4,0.00
+5205,Cartas de Crédito,5,4,0.00
+5290,Otras,5,4,11.00
+53,UTILIDADES FINANCIERAS,5,2,0.00
+5302,En valuación de inversiones,5,4,0.00
+5303,En venta de activos productivos,5,4,0.00
+530305,En venta de inversiones,5,6,0.00
+530310,En venta de cartera de créditos,5,6,0.00
+530390,Otras,5,6,0.00
+5304,Rendimientos por fideicomiso mercantil,5,4,0.00
+5390,Otros,5,4,0.00
+54,INGRESOS POR SERVICIOS,5,2,"64,313.87"
+5401,Servicios fiduciarios,5,4,
+5405,Garantías crediticias otorgadas por la Corporación Nacional de Finanzas Populares y Solidarias,5,4,
+5490,Otros servicios,5,4,"64,313.87"
+549005,Tarifados con costo máximo,5,6,"64,153.87"
+549010,Tarifados diferenciados,5,6,160.00
+55,OTROS INGRESOS OPERACIONALES,5,2,0.00
+5501,Utilidades en acciones y participaciones,5,4,0.00
+5503,Excedentes o utilidades recibidos por certificados de aportación,5,4,0.00
+5590,Otros,5,4,0.00
+56,OTROS INGRESOS,5,2,"208,188.45"
+5601,Utilidad en venta de bienes,5,4,0.00
+5602,Utilidad en venta de acciones y participaciones,5,4,0.00
+5603,Arrendamientos,5,4,0.00
+5604,Recuperaciones de activos financieros,5,4,"119,237.81"
+560405,De activos castigados,5,6,"23,195.46"
+560410,Reversión de provisiones,5,6,"6,852.63"
+560415,Devolución de impuestos y multas,5,6,0.00
+560420,Intereses y comisiones de ejercicios anteriores,5,6,"89,189.72"
+5690,Otros,5,4,"88,950.64"
+59,PÉRDIDAS Y GANANCIAS,5,2,0.00
+6,CUENTAS CONTINGENTES,6,1,0.00
+61,DEUDORAS,6,2,0.00
+6190,Otras cuentas contingentes deudoras,6,4,0.00
+64,ACREEDORAS,6,2,0.00
+6401,Avales,6,4,0.00
+640105,Avales comunes,6,6,0.00
+640110,Avales con garantía de entidades financieras del exterior,6,6,0.00
+6402,Fianzas y garantías,6,4,0.00
+640205,Garantías aduaneras,6,6,0.00
+640210,Garantías a favor de la Corporación Financiera Nacional o Corporación Nacional de Finazas Populares y Solidarias,6,6,0.00
+640215,Fianzas con garantía de entidades financieras del exterior,6,6,0.00
+640290,Otras,6,6,0.00
+6403,Cartas de Crédito,6,4,0.00
+640305,Emitidas por la entidad,6,6,0.00
+640310,Emitidas por cuenta de la entidad,6,6,0.00
+640315,Confirmadas,6,6,0.00
+6404,Créditos aprobados no desembolsados,6,4,0.00
+640405,Cartera de crédito productivo,6,6,0.00
+640410,Cartera de crédito de consumo,6,6,0.00
+640415,Cartera de crédito inmobiliario,6,6,0.00
+640420,Cartera de microcrédito,6,6,0.00
+640440,Cartera de crédito de vivienda de interés social y público,6,6,0.00
+640445,Cartera de crédito educativo,6,6,0.00
+6405,Compromisos futuros,6,4,0.00
+640505,Riesgo asumido por cartera vendida,6,6,0.00
+640510,Riesgo asumido en cartera permutada,6,6,0.00
+640590,Otros compromisos,6,6,0.00
+6412,Garantías  concedidas por  la Corporación Nacional de Finanzas Populares y Solidarias,6,4,
+641205,Por operaciones de crédito,6,6,
+641210,Por inversiones,6,6,
+641290,Otros,6,6,
+6490,Otras cuentas contingentes acreedoras,6,4,0.00
+7,CUENTAS DE ORDEN,7,1,"294,397,781.16"
+71,CUENTAS DE ORDEN DEUDORAS,7,2,"41,543,974.52"
+7101,Valores y bienes propios en poder de terceros,7,4,"3,396,402.48"
+710105,En cobranza,7,6,0.00
+710110,En custodia,7,6,"3,396,402.48"
+710125,En comodato,7,6,0.00
+710190,Otros,7,6,0.00
+7102,Activos propios en poder de terceros entregados en garantía,7,4,"21,062,609.60"
+710205,Inversiones a valor razonable con cambios en el estado de resultados,7,6,0.00
+710210,Inversiones disponibles para la venta,7,6,0.00
+710215,Inversiones mantenidas hasta el vencimiento,7,6,0.00
+710220,Inversiones de disponibilidad restringida,7,6,0.00
+710225,Cartera de crédito productivo,7,6,"1,490,752.00"
+710230,Cartera de crédito de consumo,7,6,"6,025,447.00"
+710235,Cartera de crédito inmobiliario,7,6,"5,672,273.60"
+710240,Cartera de microcrédito,7,6,"7,874,137.00"
+710260,Cartera de crédito de vivienda de interés social y público,7,6,0.00
+710261,Cartera de crédito educativo,7,6,0.00
+710265,Cartera de créditos refinanciada,7,6,0.00
+710270,Cartera de créditos reestructurada,7,6,0.00
+710275,Bienes muebles,7,6,0.00
+710280,Bienes inmuebles,7,6,0.00
+710290,OTROS ACTIVOS,7,6,0.00
+7103,Activos castigados,7,4,"4,218,952.94"
+710305,INVERSIONES,7,6,0.00
+710310,CARTERA DE CRÉDITOS,7,6,"1,974,648.46"
+710320,CUENTAS POR COBRAR,7,6,"2,224,511.98"
+710325,"Bienes realizables, adjudicados por pago y no utilizados por la entidad",7,6,0.00
+710330,OTROS ACTIVOS,7,6,"19,792.50"
+7104,Líneas de crédito no utilizadas,7,4,"350,000.00"
+710405,Del país,7,6,"350,000.00"
+710410,Del exterior,7,6,0.00
+7105,Operaciones sujetas a cupo de créditos ,7,4,"1,318,265.89"
+710510,CARTERA DE CRÉDITOS,7,6,"1,318,265.89"
+710535,Operaciones contingentes,7,6,0.00
+7106,Operaciones activas con entidades del grupo popular y solidario,7,4,0.00
+710605,INVERSIONES,7,6,0.00
+710610,CARTERA DE CRÉDITOS,7,6,0.00
+710620,CUENTAS POR COBRAR,7,6,0.00
+710625,"Bienes realizables, adjudicados por pago y no utilizados por la entidad",7,6,0.00
+710630,OTROS ACTIVOS,7,6,0.00
+710635,Operaciones contingentes,7,6,0.00
+7107,Cartera de créditos y otros activos en demanda judicial,7,4,"1,313,752.33"
+710705,Cartera de crédito productivo,7,6,7.00
+710710,Cartera de crédito de consumo,7,6,"417,047.16"
+710715,Cartera de créditos Inmobiliario,7,6,"18,237.20"
+710720,Cartera de microcrédito,7,6,"878,460.97"
+710740,Cartera de crédito de vivienda de interés social y público,7,6,0.00
+710741,Cartera de crédito educativo,7,6,0.00
+710745,Cartera de créditos refinanciada,7,6,0.00
+710750,Cartera de créditos reestructurada,7,6,0.00
+710755,INVERSIONES,7,6,0.00
+710760,CUENTAS POR COBRAR,7,6,0.00
+710790,OTROS ACTIVOS,7,6,0.00
+7108,Cartera comprada a entidades en liquidación o adquirida por procesos de fusión,7,4,"87,523.49"
+710805,Provisión diferida cartera comprada a entidades en liquidación o adquirida por procesos de fusión,7,6,0.00
+710810,Saldo cartera comprada a entidades en liquidación o adquirida por procesos de fusión,7,6,"87,523.49"
+7109,"Intereses, comisiones e ingresos en suspenso",7,4,"4,206,484.04"
+710905,Cartera de crédito productivo,7,6,"25,267.81"
+710910,Cartera de crédito de consumo,7,6,"435,815.67"
+710915,Cartera de crédito inmobiliario,7,6,"22,585.97"
+710920,Cartera de microcrédito,7,6,"565,494.06"
+710940,Cartera de crédito de vivienda de interés social y público,7,6,0.00
+710941,Cartera de crédito educativo,7,6,0.00
+710945,Cartera de créditos refinanciada,7,6,"20,478.86"
+710950,Cartera de créditos reestructurada,7,6,"54,440.52"
+710990,Otros,7,6,"3,082,401.15"
+7111,Activos adquiridos por procesos de fusión,7,4,0.00
+711105,INVERSIONES,7,6,0.00
+711110,Cuentas por cobrar sujetas a provisión,7,6,0.00
+711115,Otros activos sujetos a provisión,7,6,0.00
+711120,Provisión diferida,7,6,0.00
+7117,Cartera entregada para procesos de titularización,7,4,"2,583,756.73"
+711710,Cartera de crédito productivo,7,6,0.00
+711720,Cartera de crédito de consumo,7,6,"2,583,756.73"
+711730,Cartera de crédito de vivienda de interés social y público,7,6,0.00
+711735,Cartera de créditos Inmobiliario,7,6,0.00
+711740,Cartera de microcréditos,7,6,0.00
+711745,Cartera de créditos educativo,7,6,0.00
+7190,Otras cuentas de orden deudoras,7,4,"3,006,227.02"
+719005,Cobertura de seguros,7,6,"3,006,227.02"
+719010,Multas e impuestos en reclamo,7,6,0.00
+719015,Títulos por emitir,7,6,0.00
+719020,Títulos emitidos no vendidos,7,6,0.00
+719025,Títulos propia emisión recomprados,7,6,0.00
+719035,Títulos y cupones por incinerar,7,6,0.00
+719050,Prima en compra de cartera,7,6,0.00
+719090,Otras cuentas de orden,7,6,0.00
+74,CUENTAS DE ORDEN ACREEDORAS,7,2,"252,853,806.64"
+7401,Valores y bienes recibidos de terceros,7,4,"243,993,044.24"
+740105,En cobranza,7,6,0.00
+740110,Documentos en garantía,7,6,"194,055,849.44"
+740115,Valores fiduciarios en garantía,7,6,0.00
+740120,Bienes inmuebles en garantía,7,6,"48,069,348.79"
+740125,Otros bienes en garantía,7,6,"859,822.04"
+740130,En custodia,7,6,"1,008,023.97"
+740135,En administración,7,6,0.00
+740140,En comodato,7,6,0.00
+740150,Cartera de crédito productivo en administración,7,6,0.00
+740160,Cartera de crédito consumo en administración,7,6,0.00
+740170,Cartera de crédito de vivienda de interés social y público en administración,7,6,0.00
+740175,Cartera de crédito inmobiliario en administración,7,6,0.00
+740180,Cartera de microcréditos en administración,7,6,0.00
+740185,Cartera de crédito educativo en administración,7,6,0.00
+7402,Operaciones pasivas con personas naturales o jurídicas vinculadas ,7,4,0.00
+740205,OBLIGACIONES CON EL PÚBLICO,7,6,0.00
+740215,OBLIGACIONES INMEDIATAS,7,6,0.00
+740225,CUENTAS POR PAGAR,7,6,0.00
+740230,Obligaciones financieras,7,6,0.00
+740235,VALORES EN CIRCULACIÓN,7,6,0.00
+740245,OTROS PASIVOS,7,6,0.00
+740250,Contingentes,7,6,0.00
+7403,Operaciones pasivas con empresas subsidiarias y afiliadas,7,4,0.00
+740305,OBLIGACIONES CON EL PÚBLICO,7,6,0.00
+740315,OBLIGACIONES INMEDIATAS,7,6,0.00
+740325,CUENTAS POR PAGAR,7,6,0.00
+740330,Obligaciones financieras,7,6,0.00
+740335,VALORES EN CIRCULACIÓN,7,6,0.00
+740345,OTROS PASIVOS,7,6,0.00
+740350,Contingentes,7,6,0.00
+7404,Depósitos y otras captaciones no cubiertas por  el Seguro de Depósitos,7,4,0.00
+740405,OBLIGACIONES CON EL PÚBLICO,7,6,0.00
+740410,OBLIGACIONES INMEDIATAS,7,6,0.00
+7405,Descuentos en compras de cartera,7,4,0.00
+740505,Descuento en compra de cartera a entidades en liquidación,7,6,0.00
+740510,Descuento en compra de cartera a entidades activas,7,6,0.00
+7406,Deficiencia de provisiones,7,4,0.00
+740605,INVERSIONES,7,6,0.00
+740610,CARTERA DE CRÉDITOS,7,6,0.00
+740620,CUENTAS POR COBRAR,7,6,0.00
+740625,Bienes  adjudicados por pago,7,6,0.00
+740630,OTROS ACTIVOS,7,6,0.00
+740635,Operaciones contingentes,7,6,0.00
+7407,Depósitos de entidades del sector público,7,4,"177,928.57"
+740705,Depósitos monetarios en cuentas corrientes,7,6,0.00
+740710,Depósitos de ahorro,7,6,0.00
+740715,Otros depósitos,7,6,0.00
+740725,Depósitos a plazo,7,6,"177,928.57"
+740730,Depósitos por confirmar,7,6,0.00
+7409,Valores y bienes recibidos en fideicomiso mercantil,7,4,
+740905,De garantía,7,6,
+740910,De administración,7,6,
+740915,Inmobiliario,7,6,
+740920,De Inversión,7,6,
+740990,Otros,7,6,
+7411,Pasivos adquiridos,7,4,0.00
+741105,Depósitos a la vista,7,6,0.00
+741115,Depósitos a plazo,7,6,0.00
+741120,OPERACIONES INTERFINANCIERAS,7,6,0.00
+741125,OBLIGACIONES INMEDIATAS,7,6,0.00
+741130,CUENTAS POR PAGAR,7,6,0.00
+741135,Obligaciones financieras,7,6,0.00
+741140,OTROS PASIVOS,7,6,0.00
+7414,Provisiones constituidas,7,4,"689,322.22"
+741401,Provisión cartera refinanciada  crédito productivo,7,6,0.00
+741402,Provisión cartera refinanciada consumo,7,6,0.00
+741403,Provisión cartera refinanciada inmobiliaria,7,6,0.00
+741404,Provisión cartera refinanciada microcrédito,7,6,0.00
+741409,Provisión cartera reestructurada crédito productivo,7,6,1.00
+741410,Provisión cartera reestructurada consumo,7,6,"21,901.34"
+741411,Provisión cartera reestructurada inmobiliaria,7,6,0.00
+741412,Provisión cartera reestructurada microcrédito,7,6,0.00
+741415,Provisión genérica por tecnología crediticia cartera de crédito productivo,7,6,0.00
+741416,Provisión genérica por tecnología crediticia cartera de crédito inmobiliario,7,6,0.00
+741417,Provisión genérica por tecnología crediticia cartera de consumo,7,6,"221,017.18"
+741418,Provisión genérica por tecnología crediticia cartera de microcrédito,7,6,"127,993.45"
+741419,Provisión genérica por tecnología crediticia cartera de crédito educativo,7,6,0.00
+741420,Provisión genérica voluntaria cartera de crédito productivo,7,6,0.00
+741421,Provisión genérica voluntaria cartera consumo,7,6,0.00
+741422,Provisión genérica voluntaria cartera inmobiliaria,7,6,0.00
+741423,Provisión genérica voluntaria cartera microcrédito,7,6,"318,409.25"
+741426,Provisión genérica por tecnología crediticia cartera de vivienda de interés social y público,7,6,0.00
+741428,Provisión genérica voluntaria cartera refinanciada,7,6,0.00
+741429,Provisión genérica voluntaria cartera reestructurada,7,6,0.00
+741431,Provisión cartera refinanciada de vivienda de interés social y público,7,6,0.00
+741432,Provisión cartera refinanciada educativo,7,6,0.00
+741435,Provisión cartera reestructurada de vivienda de interés social y público,7,6,0.00
+741436,Provisión cartera reestructurada educativo,7,6,0.00
+741440,Provisión genérica voluntaria cartera de vivienda de interés social y público,7,6,0.00
+741441,Provisión genérica voluntaria cartera de crédito educativo,7,6,0.00
+7415,Depósitos o captaciones constituidos como garantía de préstamos,7,4,"7,993,511.61"
+741505,Cartera de crédito productivo,7,6,0.00
+741510,Cartera de consumo,7,6,"7,946,589.21"
+741515,Cartera de crédito inmobiliario,7,6,0.00
+741520,Cartera de microcrédito,7,6,"46,922.40"
+741540,Cartera de crédito de vivienda de interés social y público,7,6,0.00
+741545,Cartera de crédito educativo,7,6,0.00
+7417,Operaciones de financiamiento afianzadas,7,4,0.00
+741705,Créditos productivos,7,6,0.00
+741710,Microcréditos,7,6,0.00
+741715,Contingentes,7,6,0.00
+7490,Otras cuentas de orden acreedoras,7,4,0.00
+749010,Cartas de crédito avisadas,7,6,0.00
+749015,Aportes futuros del gobierno para capital,7,6,
+749020,Créditos aprobados no instrumentados,7,6,0.00
+749090,Otras,7,6,0.00
